@@ -1,0 +1,10 @@
+D:\Prog\c#\obj\Debug\ResolveAssemblyReference.cache
+D:\Prog\c#\obj\Debug\EQ_Parser.Form1.resources
+D:\Prog\c#\obj\Debug\EQ_Parser.Properties.Resources.resources
+D:\Prog\c#\obj\Debug\EQ Parser.csproj.GenerateResource.Cache
+D:\Prog\c#\bin\Debug\EQ Parser.exe
+D:\Prog\c#\bin\Debug\EQ Parser.pdb
+D:\Prog\c#\bin\Debug\colorprogressbar.dll
+D:\Prog\c#\obj\Debug\EQ Parser.exe
+D:\Prog\c#\obj\Debug\EQ Parser.pdb
+D:\Prog\c#\obj\Debug\EQ_Parser.SpellBarEventArgs.resources

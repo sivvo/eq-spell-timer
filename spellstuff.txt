@@ -1,0 +1,36 @@
+
+pyre of jorobb, 30,  body is consumed in a pyre of cinders.
+ignite synapses, 30, 	's mana ignites
+pyre of marnek, 30, body is consumed in a pyre of cinders.
+annihilation, 30,  recognizes their fragile mortality.
+ignite thoughts,  30 's mana ignites.
+pyre of hazarak, 30, body is consumed in a pyre of cinders.
+termination, 30, recognizes their fragile mortality
+smouldering shadow, 84, is crossed by a burning shadow.
+mortiferous wounds, 96, 's body is perforated by thousands of wounds
+pernicious wounds, 96,  's body is perforated by thousands of wounds
+necrotising wounds, 96, 's body is perforated by thousands of wounds
+glistenwing venom, 42, 's veins turn a vile shade of green.
+plexipharia's pallid haze, 42,   chokes on a sickly green mist.
+binaesa venom, 42,  's veins turn a vile shade of green
+pyre of the lost, 42,  's body is enveloped in a funeral pyre.
+liquefaction,54 	's veins explode.
+dissolution, 54 's veins explode.
+
+
+105%
+
+30 * 2.10
+
+casting: 2.1
+
+
+1:24
+1:36
+
+
+1:03
+1:04
+1:00
+1:04
+1:03

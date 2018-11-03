@@ -1,0 +1,10 @@
+bin\Debug\EQ Parser.exe
+bin\Debug\EQ Parser.pdb
+bin\Debug\colorprogressbar.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EQ_Parser.Form1.resources
+obj\Debug\EQ_Parser.Properties.Resources.resources
+obj\Debug\EQ Parser.csproj.GenerateResource.Cache
+obj\Debug\EQ Parser.exe
+obj\Debug\EQ Parser.pdb
+obj\Debug\EQ_Parser.spellbar.resources

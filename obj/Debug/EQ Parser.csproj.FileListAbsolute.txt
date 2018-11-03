@@ -1,0 +1,10 @@
+D:\dev\eq spell timer c#\bin\Debug\EQ Parser.exe
+D:\dev\eq spell timer c#\bin\Debug\EQ Parser.pdb
+D:\dev\eq spell timer c#\bin\Debug\colorprogressbar.dll
+D:\dev\eq spell timer c#\obj\Debug\EQ Parser.csprojResolveAssemblyReference.cache
+D:\dev\eq spell timer c#\obj\Debug\EQ_Parser.Form1.resources
+D:\dev\eq spell timer c#\obj\Debug\EQ_Parser.Properties.Resources.resources
+D:\dev\eq spell timer c#\obj\Debug\EQ_Parser.SpellBarEventArgs.resources
+D:\dev\eq spell timer c#\obj\Debug\EQ Parser.csproj.GenerateResource.Cache
+D:\dev\eq spell timer c#\obj\Debug\EQ Parser.exe
+D:\dev\eq spell timer c#\obj\Debug\EQ Parser.pdb
